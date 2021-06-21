@@ -1,0 +1,19 @@
+/* @import "https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css"; */
+
+h1 {
+  text-align: center;
+}
+
+thead tr th {
+  color: whitesmoke;
+  background-color: rgb(87, 87, 87);
+}
+
+.inputBox {
+  width: 50%;
+  min-width: 400px;
+}
+
+span {
+  color: red;
+}
